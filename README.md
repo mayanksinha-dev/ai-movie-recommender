@@ -1,5 +1,7 @@
 # 🎬 Movie Recommender System
 
+## Live-Demo - https://watchnextmovie.streamlit.app
+
 An AI-powered Movie Recommender System built with **Python**, **Streamlit**, and **Machine Learning**. The application recommends similar movies based on content similarity and displays movie posters using the TMDB API.
 
 ## 🚀 Features
